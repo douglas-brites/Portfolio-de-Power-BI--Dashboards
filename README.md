@@ -1,6 +1,7 @@
 Bem-vindos ao meu repositório de projetos desenvolvidos em Power BI
 
 
+
 Neste compilado, deixo à disposição pública alguns projetos desenvolvidos por mim, passando por propostas de curto, médio e longo prazo de desenvolvimento, privilegiando arquiteturas desde as mais minimalistas até trabalhos mais complexos, compostos por maior volume gráfico e de tabelas.
 
 Essas aplicações são oriundas de testes de trabalho, protótipos de projetos e de soluções empiricamente aplicadas em alguns ambientes profissionais nos quais atuei. 
