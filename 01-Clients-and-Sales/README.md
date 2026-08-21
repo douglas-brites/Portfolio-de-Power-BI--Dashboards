@@ -12,3 +12,5 @@ No projeto, desenvolvido de ponta a ponta por mim, de acordo com solicitações 
 •	Gráficos abaixo, em série de tempo, para 10 principais empresas com maiores números em ambos os indicadores.
 •	Modelagem de dado star schema, com dados a serem excluídos ainda em algumas tabelas, sob caráter de teste (até maturação total, com diretrizes finais do cliente externo); e
 •	Separação de medidas DAX por meio de agrupamento por posicionamento de página (agilidade para criação e manutenção de medidas em nível de visualização).
+
+[Imagem da estrutura visual da aplicação] <img width="389" height="727" alt="{D4DF2C8F-18C1-41CE-85CE-A4583BF7E14A}" src="https://github.com/user-attachments/assets/4db3239a-225d-4556-aaf6-44e18c8aef6d" />
