@@ -1,4 +1,4 @@
-📁 01 - Disponibilidade-Ruptura
+📁 01 - Disponibilidade-Ruptura-Preços
 
 Nesta aplicação, usada como solução real e empírica para resolução de problemas de negócios de uma empresa cujo ramo de atividade é o de posicionamento estratégico de produtos em pontos de venda,
 me foi solicitado o desenvolvimento de uma automação que atingisse múltiplos objetivos de interesse, passando por acompanhamento de KPIs estratégicos, 
