@@ -7,12 +7,12 @@ Neste compilado, deixo à disposição pública alguns projetos desenvolvidos po
 
 Essas aplicações são oriundas de testes de trabalho, protótipos de projetos e de soluções empiricamente aplicadas em alguns ambientes profissionais nos quais atuei. 
 Desde já, esclareço que, embora alguns dos modelos advenham de aplicações reais, os dados usados para popular as arquiteturas são fictícios, a fim de garantir a segurança das informações e- ao mesmo tempo- manter a
-estrutura proposta em funcionamento para testes e apresentações.
+estrutura proposta em funcionamento para testes as apresentações.
 
 ----
 
 ## 📂 Estrutura das Subpastas e Conteúdos
 
 ### 01 - Clientes-and-Sales
-### 02 - ProUni 2017
-### 03 - Produtos
+### 02 - Produtos
+### 03 - ProUni2017
